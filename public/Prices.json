@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 19.99,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "health is Wealth"
+    ],
+    "pictureUrl": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Standard Membership",
+    "price": 29.99,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "Group fitness classes"
+    ],
+    "pictureUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Premium Membership",
+    "price": 49.99,
+    "features": [
+      "Access to gym equipment",
+      "Locker rental",
+      "Group fitness classes",
+      "Personal training session per week"
+    ],
+    "pictureUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+  }
+]
